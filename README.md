@@ -1,0 +1,1 @@
+# boilerplate-hapi-mongo-auth
